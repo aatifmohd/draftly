@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Google Docs Clone</h1>
+        <h1>Draftly</h1>
       </header>
       <Editor />
     </div>
